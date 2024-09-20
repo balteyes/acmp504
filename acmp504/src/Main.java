@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        char geran ='G';
-        char krokus = 'C';
-        char fialka = 'V';
+        //char geran ='G';
+        //char krokus = 'C';
+        //char fialka = 'V';
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("введите количество дней");
